@@ -1,0 +1,9 @@
+steps to push repos into GitHub
+1. create account
+2.create empty repo
+3.in local system:
+ git config --global user.name "DilleswararaoPalleti"
+ git config --global user.email "dilleswararaopalleti@gmail.com"
+4.git push -u orgin master
+  4.1 username -->DilleswararaoPalleti
+  4.2 password -->generated token 
